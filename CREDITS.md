@@ -65,6 +65,7 @@ Dev only — these three tracks are fan covers of commercial songs, used while t
 ## Art
 
 - **Characters and creatures**: generated in PixelLab. Prompts and settings kept beside every character
+- **Text boxes, menu panels, buttons and the fight's cards**: generated with Google's Nano Banana. From the team's prompts and screenshots, cut and cleaned up by the team
 - **The fight screen's frames, banner and speed mark**: Kenney (kenney.nl): Pixel UI Pack. CC0. Thank you, Kenney.
 - **The baker's meat pie and honey cake**: bluecarrot16, [LPC] Food, from OpenGameArt's CC0 Food Icons. CC0. Thank you.
 - **Items, props, buildings, holds, ground tiles, menu frames**. source to confirm
@@ -79,6 +80,7 @@ Dev only — these three tracks are fan covers of commercial songs, used while t
 
 - **Godot Engine**: engine and editor
 - **PixelLab**: sprite generation
+- **Nano Banana (Google Gemini)**: UI frame generation
 - **Aseprite**: sprite cleanup
 - **Ableton Live**: music
 - **faster-whisper**: voice-note transcription for the design ledger

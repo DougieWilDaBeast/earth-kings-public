@@ -56,8 +56,10 @@ This is the project's public face, not its source. It holds:
   their licences;
 - [AI.md](AI.md): what in the game was made with AI, and how.
 
-The game's code, art and design notes are kept in a private repository. Nothing here, and nothing
-in the builds, is offered for reuse unless a licence file in this repository says otherwise.
+The game's code, art and design notes are kept in a private repository. All rights are reserved by
+the two founders: you may play the builds and share links, but nothing here or in the builds may be
+copied, changed or sold without their written permission. See [LICENSE](LICENSE); outside material
+keeps its own licence, listed in [CREDITS.md](CREDITS.md).
 
 This repository is written by a publish job from the private one; changes made here directly are
 overwritten.

@@ -38,7 +38,7 @@ What is new lately:
 - **An isometric look**, on trial beside the view from above: every land of the game, its villages,
   the city and the weather, all drawn at a tilted angle.
 - **A new shape for the world**: one Tower at the heart, and round it a land of their own for each
-  of the sixteen. It is being built now.
+  of the sixteen. It is the game's map now: you come down in your own.
 - **Villages with life in them**: people who stroll to the well and the stalls, stop to talk and
   watch you pass.
 - **Chapters three and four** for all sixteen, found on floors 15 and 20.
